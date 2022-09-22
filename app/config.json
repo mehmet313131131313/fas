@@ -1,0 +1,31 @@
+{
+    "bots":{
+        "footer":"priv was here?",
+        "VoiceChannel":"1021051613114269727",
+        "status":"priv is here? "
+    },
+
+    "roles":{
+      "register":["1020613671086465044"],
+      "maleRoles":["1020613688274718821","1020613688274718821"],
+      "erkek1":"1020613688274718821",
+      "femaleRoles":["1020613687054176266","1020613687054176266"],
+      "kadın1":"1020613687054176266",
+      "unregisteres":"1020613689293930507",
+      "vip":"1020613677503762483",
+      "booster":"Booster Rol ID"  
+    },
+
+    "giriş":{
+      "isim":"• İsim | Yaş",
+      "hoşgeldinKanal":"1020613749767426099",
+      "kurallar":"1020613750904062053",
+      "SunucuAdı":"Priv"
+    },
+
+    "taglar":{
+      "taglı":"★ ",
+      "tagsız":"★ ",
+      "tag":"★ "
+    }
+}
